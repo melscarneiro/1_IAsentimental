@@ -27,7 +27,6 @@ Após o upload do arquivo, o **Azure Language Studio** realiza o processamento d
 
 *As preposições adversativas (como “mas” e “porém”) também são consideradas como mudança de opinião dentro da mesma sentença.*
 
- 
 
 ## :wrench: Ferramentas utilizadas
 
@@ -35,7 +34,6 @@ Após o upload do arquivo, o **Azure Language Studio** realiza o processamento d
 
 - Extensão Data Minders (Google Chrome)
 
-  
 
 # Como o Azure AI Classifica os Sentimentos
 
